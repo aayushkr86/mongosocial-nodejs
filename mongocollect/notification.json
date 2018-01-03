@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5a1ff1af9eafab2f5b1d94b2"},"userid":{"$oid":"59dc99ee913d3b2170fecba9"},"followtype":"channel","channeloruserid":"59f836f70b5abd1cd4c898ca","status":"read","action":"follow","createdAt":{"$date":"2017-11-30T11:55:26.981Z"}}
+{"_id":{"$oid":"5a1ff3ca2dad39305039e279"},"userid":{"$oid":"59dc99ee913d3b2170fecba9"},"followtype":"channel","channeloruserid":"59f836f70b5abd1cd4c898ca","status":"read","action":"unfollow","createdAt":{"$date":"2017-11-30T12:04:26.324Z"}}
